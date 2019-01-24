@@ -1,9 +1,21 @@
 {
   "name": "@magicsoup-io/stock",
+  "description": "The stock for our react component library soup. - 100% veggie & gluten-free",
   "version": "0.0.1",
   "author": "zauberware",
   "license": "MIT",
   "main": "dist/index.js",
+  "contributors": [
+    {
+      "name": "Simon Franzen",
+      "email": "simon@zauberware.com",
+      "url": "https://www.zauberware.com"
+    },
+    {
+      "name": "Philipp Siegmund",
+      "email": "philipp@zauberware.com"
+    }
+  ],
   "dependencies": {
     "styled-system": "^3.2.1"
   },
@@ -47,6 +59,21 @@
   },
   "peerDependencies": {
     "styled-components": ">=4.0.0"
+  },
+  "bugs": "https://github.com/magicsoup-io/stock/issues",
+  "keywords": [
+    "reactjs",
+    "react",
+    "components",
+    "component-library",
+    "react component-library",
+    "styled-components",
+    "styled-system",
+    "styleguidist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magicsoup-io/stock.git"
   },
   "lint-staged": {
     "*.js": [
