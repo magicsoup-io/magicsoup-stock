@@ -1,6 +1,6 @@
 # MagicSoup.io - Stock
 
-Base component library for all MagicSoup components.
+Base component library for all MagicSoup components. It uses styled-components and styled-system.
 
 ## Background
 
