@@ -1,5 +1,7 @@
 # MagicSoup.io - Stock
 
+[![Build Status](https://travis-ci.com/magicsoup-io/stock.svg?branch=master)](https://travis-ci.com/magicsoup-io/stock)
+
 Base component library for all MagicSoup components. The soup is getting cooked with styled-components and styled-system.
 
 ## Background
