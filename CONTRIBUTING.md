@@ -15,3 +15,18 @@ Please note we have a code of conduct, please follow it in all your interactions
    Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
 4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
    do not have permission to do that, you may request the second reviewer to merge it for you.
+   
+   
+## Installation
+
+`git clone git@github.com:magicsoup-io/stock.git`
+`npm install`
+`npm start`
+
+```
+You can now view your style guide in the browser:
+
+  Local:            http://localhost:6060/
+  On your network:  http://192.168.1.210:6060/
+  
+```
