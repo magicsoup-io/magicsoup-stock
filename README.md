@@ -44,3 +44,5 @@ tbd
 - Logo
 - Badges
 - Tests
+- Default props
+- Authors, Contributors
