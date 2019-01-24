@@ -23,13 +23,12 @@ Please note we have a code of conduct, please follow it in all your interactions
 git clone git@github.com:magicsoup-io/stock.git
 npm install
 npm start
+```
 
 ```
 You can now view your style guide in the browser:
 
-
   Local:            http://localhost:6060/
-  
   On your network:  http://192.168.1.210:6060/
   
   
