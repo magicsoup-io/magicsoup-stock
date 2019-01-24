@@ -19,9 +19,10 @@ Please note we have a code of conduct, please follow it in all your interactions
    
 ## Installation
 
-`git clone git@github.com:magicsoup-io/stock.git`
-`npm install`
-`npm start`
+```
+$ git clone git@github.com:magicsoup-io/stock.git
+$ npm install
+$ npm start
 
 ```
 You can now view your style guide in the browser:
