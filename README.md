@@ -65,15 +65,30 @@ Our goal is to animate more and more developers and companies to create higher o
 
 
 ## TBD
-- Docs
-- Logo
-- Badges
-- Tests
-- Default props
-- Sandbox
-- Examples
-- Boilerplates
+- Docs (Finish docs for base components)
+- Logo (Creating a logo for MagicSoup.io)
+- Badges (Adding travis CI, Code coverage etc.)
+- Default props (give all components the right default props)
+- Sandbox (LiveCode with X?)
+- Examples (building higher order components)
+- Boilerplates (create-react-app, gatsby)
 - Authors, Contributors
+- Extension packs:
+  - magicsoup-io/form
+    - Checkbox
+    - Radio
+    - Input
+    - Textarea
+    - Switch
+    - Label
+  - magicsoup-io/marketing
+    - ?
+  - magicsoup-io/progress
+  - magicsoup-io/menu
+  - magicsoup-io/tabs
+  - magicsoup-io/accordion
+  - magicsoup-io/slider
+  - magicsoup-io/truncate
 
 
 ## Contributors
