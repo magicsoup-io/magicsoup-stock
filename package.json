@@ -21,8 +21,8 @@
   },
   "scripts": {
     "start": "styleguidist server",
-    "build": "styleguidist build",
-    "bundle": "webpack",
+    "styleguide": "styleguidist build",
+    "build": "webpack",
     "lint": "eslint src",
     "jest": "jest --env=jsdom",
     "test": "run-s lint jest"

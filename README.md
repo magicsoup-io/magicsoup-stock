@@ -1,10 +1,13 @@
 # MagicSoup.io - Stock
 
-Base component library for all MagicSoup components. The soup is getting cooked with styled-components and styled-system.
+THE base component library for your next React.js project. The *soup* is getting cooked with [styled-components](https://github.com/styled-components/styled-components) and [styled-system](https://github.com/jxnblk/styled-system).
 
-## Background
+Inspired by [rebass](https://github.com/rebassjs/rebass) we at [zauberware](https://www.zauberware.com) created our own component starter library: **[MagicSoup.io](https://maqgicsoup.io)**!
 
-Inspired by rebass we created our own component environment. The MagicSoup! 
+**We love to code! We love to share! We love to create awesome UIs!**
+
+Our goal is to animate more and more developers and companies to create higher order components with MagicSoup.io. We want to give the React.js community a space where they can share their components with others. If more and more developers are using the nice approach of styled-components, styled-system and MagicSoup.io, we will all get a better understanding of how others have build their UI and we can all easily hop into other projects.
+
 
 ## Principles
 
@@ -17,26 +20,48 @@ Inspired by rebass we created our own component environment. The MagicSoup!
 - Themeable
 - Do one thing well!
 
+## Features
+
+- THE starter library to craete your own React component library
+- Easy adoption, well known props because of [styled-system](https://github.com/jxnblk/styled-system) 
+- Stateless UI components
+- Theming is possible and easy
+- Components are extensible
+
 ## Installation
-tbd
+
+`npm i magicsoup-io/stock`
 
 ## Quick start
-tbd
+`import { Text } from 'magicsoup-io/stock'`
+
+```
+<Text
+  fontSize={[ 3, 4, 5 ]}
+  fontWeight='bold'
+  color='primary'>
+  This is a basic text element
+</Text>
+```
+
 
 ## Documentation
 
-- Gettings started
-- Props
-- Extending
+- Quick start
+- Property API
+- Extending components
 - Theming
-- Box
-- Flex
-- Text
-- Heading
-- Button
-- Link
-- Image
-- Card
+- Components
+  - Box
+  - Flex
+  - Text
+  - Heading
+  - Button
+  - Link
+  - Image
+  - Card
+- Advanced
+- Examples
 
 
 ## TBD
@@ -45,4 +70,10 @@ tbd
 - Badges
 - Tests
 - Default props
+- Sandbox
+- Examples
+- Boilerplates
 - Authors, Contributors
+
+
+## Contributors
