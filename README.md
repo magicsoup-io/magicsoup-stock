@@ -1,4 +1,8 @@
+
+
 # MagicSoup.io - Stock
+
+[![Build Status](https://travis-ci.com/magicsoup-io/stock.svg?branch=master)](https://travis-ci.com/magicsoup-io/stock)
 
 THE base component library for your next React.js project. The *soup* is getting cooked with [styled-components](https://github.com/styled-components/styled-components) and [styled-system](https://github.com/jxnblk/styled-system).
 
@@ -89,6 +93,3 @@ Our goal is to animate more and more developers and companies to create higher o
   - magicsoup-io/accordion
   - magicsoup-io/slider
   - magicsoup-io/truncate
-
-
-## Contributors
