@@ -24,13 +24,13 @@ npm start
 You can now view your style guide in the browser:
 
   Local:            http://localhost:6060/
-  On your network:  http://192.168.1.210:6060/
+  On your network:  http://192.168.1.2:6060/
   
 ```
 
 ## Scripts
 
 * `npm start` starts the styleguidist development server
-* `npm styleguide` makes a static build of the styleguide
-* `npm build` creates a production ready build of the component library
+* `npm run styleguide` makes a static build of the styleguide
+* `npm run build` creates a production ready build of the component library
 * `npm test` runs all tests

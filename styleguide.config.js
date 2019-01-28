@@ -3,7 +3,7 @@ const path = require('path')
 module.exports = {
   components: 'src/components/**/[A-Z]*.js',
   defaultExample: true,
-  title: 'MagicSoup.io - Stock',
+  title: 'MagicSoup.io',
   styleguideComponents: {
     Wrapper: path.join(__dirname, 'lib/styleguide/Wrapper'),
   },

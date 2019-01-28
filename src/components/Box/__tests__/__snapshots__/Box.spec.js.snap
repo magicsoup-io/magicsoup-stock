@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Box /> without throwing 1`] = `
+<div
+  className="sc-bdVaJa iobDuz"
+>
+   I am a Box
+</div>
+`;

@@ -7,7 +7,7 @@ Basic button:
 Other button:
 
 ```jsx
-<Button size="large" color="deeppink">
+<Button size="large" color="secondary">
   Click Me
 </Button>
 ```

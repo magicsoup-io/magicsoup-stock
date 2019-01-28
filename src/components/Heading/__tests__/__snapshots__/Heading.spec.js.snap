@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Heading /> without throwing 1`] = `
+<h2
+  className="sc-bdVaJa sc-bwzfXH sc-htpNat ikroEO"
+  fontSize={4}
+  fontWeight="bold"
+>
+   I am a Heading
+</h2>
+`;

@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Image /> without throwing 1`] = `
+<img
+  className="sc-bdVaJa sc-bwzfXH cbnUwH"
+  src="https://source.unsplash.com/random/1280x720"
+/>
+`;

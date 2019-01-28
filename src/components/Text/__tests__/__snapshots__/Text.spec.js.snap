@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Text /> without throwing 1`] = `
+<div
+  className="sc-bdVaJa sc-bwzfXH cgSlBP"
+>
+   I am a Text
+</div>
+`;
