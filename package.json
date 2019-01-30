@@ -1,5 +1,5 @@
 {
-  "name": "@magicsoup-io/stock",
+  "name": "@magicsoup.io/stock",
   "description": "The stock for our react component library soup. - 100% veggie & gluten-free",
   "version": "0.0.1",
   "author": "zauberware",
@@ -21,6 +21,7 @@
   },
   "scripts": {
     "start": "styleguidist server",
+    "prepublishOnly": "npm run build",
     "styleguide": "styleguidist build",
     "build": "webpack",
     "lint": "eslint src",

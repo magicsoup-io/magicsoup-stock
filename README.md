@@ -6,7 +6,7 @@
 
 THE base component library for your next React.js project. The *soup* is getting cooked with [styled-components](https://github.com/styled-components/styled-components) and [styled-system](https://github.com/jxnblk/styled-system).
 
-Inspired by [rebass](https://github.com/rebassjs/rebass) we at [zauberware](https://www.zauberware.com) created our own component starter library: **[MagicSoup.io](https://maqgicsoup.io)**!
+Inspired by [rebass](https://github.com/rebassjs/rebass) we at [zauberware](https://www.zauberware.com) created our own component starter library: **[MagicSoup.io](https://magicsoup.io)**!
 
 **We love to code! We love to share! We love to create awesome UIs!**
 
@@ -26,7 +26,7 @@ Our goal is to animate more and more developers and companies to create higher o
 
 ## Features
 
-- THE starter library to craete your own React component library
+- THE starter library to create your own React component library
 - Easy adoption, well known props because of [styled-system](https://github.com/jxnblk/styled-system) 
 - Stateless UI components
 - Theming is possible and easy
@@ -34,7 +34,7 @@ Our goal is to animate more and more developers and companies to create higher o
 
 ## Installation
 
-`npm i magicsoup-io/stock`
+`npm i @magicsoup-io/stock`
 
 ## Quick start
 `import { Text } from 'magicsoup-io/stock'`
