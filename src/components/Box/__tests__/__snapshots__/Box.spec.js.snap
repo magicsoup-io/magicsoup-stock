@@ -2,7 +2,7 @@
 
 exports[`renders <Box /> without throwing 1`] = `
 <div
-  className="sc-bdVaJa iobDuz"
+  className="sc-bdVaJa eAkHCv"
 >
    I am a Box
 </div>

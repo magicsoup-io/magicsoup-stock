@@ -2,7 +2,7 @@
 
 exports[`renders <Link /> without throwing 1`] = `
 <a
-  className="sc-bdVaJa sc-bwzfXH fZoPEu"
+  className="sc-bdVaJa sc-bwzfXH QuaSc"
   color="blue"
   href="https://www.google.com"
 >

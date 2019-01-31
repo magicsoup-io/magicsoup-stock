@@ -2,7 +2,7 @@
 
 exports[`renders <Heading /> without throwing 1`] = `
 <h2
-  className="sc-bdVaJa sc-bwzfXH sc-htpNat ikroEO"
+  className="sc-bdVaJa sc-bwzfXH sc-htpNat eegOYn"
   fontSize={4}
   fontWeight="bold"
 >
