@@ -3,11 +3,11 @@
 # MagicSoup.io - Stock
 
 [![Build Status](https://travis-ci.com/magicsoup-io/magicsoup-stock.svg?branch=master)](https://travis-ci.com/magicsoup-io/magicsoup-stock)
-![Open issues](https://img.shields.io/github/issues-raw/magicsoup-io/magicsoup-stock.svg?style=flat)
+[![Open issues](https://img.shields.io/github/issues-raw/magicsoup-io/magicsoup-stock.svg?style=flat)](https://github.com/magicsoup-io/magicsoup-stock/issues)
 [![Code of Conduct](https://img.shields.io/badge/code-of%20conduct-green.svg)](https://github.com/magicsoup-io/magicsoup-stock/blob/master/CODE_OF_CONDUCT.md)
-![Chat on Gitter](https://img.shields.io/gitter/room/magicsoup-io/community.svg?colorB=753a88&style=flat)
-![MIT license](https://img.shields.io/github/license/magicsoup-io/magicsoup-stock.svg?style=flat)
-![Release](https://img.shields.io/github/release/magicsoup-io/magicsoup-stock.svg?style=flat)
+[![Chat on Gitter](https://img.shields.io/gitter/room/magicsoup-io/community.svg?colorB=753a88&style=flat)](https://gitter.im/magicsoup-io/community)
+[![MIT license](https://img.shields.io/github/license/magicsoup-io/magicsoup-stock.svg?style=flat)](https://github.com/magicsoup-io/magicsoup-stock/blob/master/LICENSE)
+[![Release](https://img.shields.io/github/release/magicsoup-io/magicsoup-stock.svg?style=flat)](https://github.com/magicsoup-io/magicsoup-stock/releases)
 
 THE base component library for your next React.js project. The *soup* is getting cooked with [styled-components](https://github.com/styled-components/styled-components) and [styled-system](https://github.com/jxnblk/styled-system).
 
