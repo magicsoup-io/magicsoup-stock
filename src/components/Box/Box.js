@@ -12,7 +12,7 @@ import {
 const themed = key => props => props.theme[key]
 
 const Box = styled('div')`
-  boxSizing: 'border-box';
+  box-sizing: border-box;
   ${space}
   ${width}
   ${fontSize}
@@ -22,7 +22,6 @@ const Box = styled('div')`
   ${alignSelf}
   ${themed('Box')}
 `
-
 /** @component */
 export default Box
 
