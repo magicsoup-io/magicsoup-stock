@@ -8,6 +8,7 @@
 [![Chat on Gitter](https://img.shields.io/gitter/room/magicsoup-io/community.svg?colorB=753a88&style=flat)](https://gitter.im/magicsoup-io/community)
 [![MIT license](https://img.shields.io/github/license/magicsoup-io/magicsoup-stock.svg?style=flat)](https://github.com/magicsoup-io/magicsoup-stock/blob/master/LICENSE)
 [![Release](https://img.shields.io/github/release/magicsoup-io/magicsoup-stock.svg?style=flat)](https://github.com/magicsoup-io/magicsoup-stock/releases)
+[![Weekly downloads](https://img.shields.io/npm/dw/@magicsoup.io/stock.svg?style=flat)](https://www.npmjs.com/package/@magicsoup.io/stock)
 
 THE base component library for your next React.js project. The *soup* is getting cooked with [styled-components](https://github.com/styled-components/styled-components) and [styled-system](https://github.com/jxnblk/styled-system).
 
