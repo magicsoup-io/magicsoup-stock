@@ -39,10 +39,10 @@ Our goal is to animate more and more developers and companies to create higher o
 
 ## Installation
 
-`npm i @magicsoup-io/stock`
+`npm i @magicsoup.io/stock`
 
 ## Quick start
-`import { Text } from 'magicsoup-io/stock'`
+`import { Text } from 'magicsoup.io/stock'`
 
 ```
 <Text
