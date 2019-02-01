@@ -1,0 +1,9 @@
+coverage
+lib
+public
+src
+babel.config.js
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+styleguide.config.js
+webpack.config.js

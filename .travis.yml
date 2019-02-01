@@ -6,3 +6,4 @@ script:
   - npm run test
   - npm run styleguide
   - npm run build
+  - npm run size
