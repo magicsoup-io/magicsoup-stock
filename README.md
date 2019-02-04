@@ -42,8 +42,10 @@ Our goal is to animate more and more developers and companies to create higher o
 
 `npm i @magicsoup.io/stock`
 
-## Quick start
-`import { Text } from 'magicsoup.io/stock'`
+## Documentation
+
+### Quick start
+`import { Text } from '@magicsoup.io/stock'`
 
 ```
 <Text
@@ -54,25 +56,7 @@ Our goal is to animate more and more developers and companies to create higher o
 </Text>
 ```
 
-
-## Documentation
-
-- Quick start
-- Property API
-- Extending components
-- Theming
-- Components
-  - Box
-  - Flex
-  - Text
-  - Heading
-  - Button
-  - Link
-  - Image
-  - Card
-- Advanced
-- Examples
-
+Read the [docs](https://docs.magicsoup.io/) !
 
 ## TBD
 - Docs (Finish docs for base components)
