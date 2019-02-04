@@ -10,9 +10,8 @@ module.exports = {
     path: path.join(__dirname, './dist'),
     filename: 'index.js',
     library: libraryName,
-    libraryTarget: 'umd',
-    publicPath: '/dist/',
-    umdNamedDefine: true,
+    libraryTarget: 'commonjs2',
+    publicPath: '/dist/'
   },
   node: {
     net: 'empty',
@@ -23,9 +22,14 @@ module.exports = {
     rules : [
       {
           test: /\.(js|jsx)$/,
-          use: ["babel-loader"],
+          use: {
+            loader: 'babel-loader',
+            options: {
+              presets: ['@babel/preset-env'],
+            },
+          },
           include: path.resolve(__dirname, "src"),
-          exclude: [/node_modules/, /coverage/, /lib/, /public/],
+          exclude: [/node_modules/, /coverage/, /lib/, /public/, /dist/],
       }
     ]
   },
