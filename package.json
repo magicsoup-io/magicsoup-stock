@@ -1,7 +1,7 @@
 {
   "name": "@magicsoup.io/stock",
   "description": "The stock for our react component library soup. - 100% veggie & gluten-free",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "zauberware",
   "license": "MIT",
   "main": "dist/index.js",
