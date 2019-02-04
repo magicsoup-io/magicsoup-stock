@@ -1,10 +1,10 @@
-const webpack = require('webpack');
 const pkg = require('./package.json');
 const path = require('path');
 const libraryName= pkg.name;
 
 module.exports = {
   entry: path.join(__dirname, "./src/index.js"),
+  target: 'web',
   mode: 'production',
   output: {
     path: path.join(__dirname, './dist'),
