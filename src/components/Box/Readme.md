@@ -1,4 +1,4 @@
-Basic Box:
+The `<Box>` is the default component for all other MagicSoup.io components. Extend at least this Box for your custom components.
 
 ```jsx
 <Box
@@ -6,7 +6,9 @@ Basic Box:
   fontSize={6}
   width={[ 1, 1, 1/2 ]}
   color="white"
-  bg="primary">
-  Box
+  bg="purple">
+  A box in a soup!
 </Box>
 ```
+
+
