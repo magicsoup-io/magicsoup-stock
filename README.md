@@ -68,6 +68,7 @@ Read the [docs](https://docs.magicsoup.io/) !
 - Boilerplates (create-react-app, gatsby)
 - Authors, Contributors
 - Extension packs:
+  - magicsoup-io/greens
   - magicsoup-io/form
     - Checkbox
     - Radio

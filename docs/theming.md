@@ -47,7 +47,6 @@ MagicSoup and styled-system allow global font sizes, colors, spacing, button var
 
 The following keys will be picked up by styled-system props:
 
-
 |Key|Type|Description| 
 |---|---|---|
 |`breakpoints`|Array|Array of strings representing viewport widths to use for min-width media queries. |
@@ -65,7 +64,7 @@ The following keys will be picked up by styled-system props:
 
 By default arrays of numbers are interpreted as `px`, other unit of measurements can be specified by using an array of strings instead, e.x. `['768px', '992px', '1200px']`.
 
-## Button & Card Cariants
+## Button, Card Headings variants
 
 The Button and Card components accept a variant prop to pick up predefined styles in the theme.
 
@@ -93,4 +92,21 @@ With the above buttons object, the Button component can apply styles based on th
 ```js static
 <Button variant='primary' />
 <Button variant='outline' />
+```
+
+## Override the magicsoup base components in your theme
+
+You can set styling for base components directly in your theme.
+
+```js static
+// example theme.js
+export default {
+  Box: {
+    color: '#fff',
+    backgroundColor: red,
+  },
+  Headline: {
+    color: red,
+  }
+}
 ```
