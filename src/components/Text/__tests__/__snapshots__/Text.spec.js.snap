@@ -2,7 +2,7 @@
 
 exports[`renders <Text /> without throwing 1`] = `
 <div
-  className="sc-bdVaJa sc-bwzfXH kmMRdh"
+  className="sc-bdVaJa sc-ifAKCX dcLmg"
 >
    I am a Text
 </div>

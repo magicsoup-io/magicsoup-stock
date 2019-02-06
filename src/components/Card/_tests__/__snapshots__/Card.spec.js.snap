@@ -2,7 +2,7 @@
 
 exports[`renders <Card /> without throwing 1`] = `
 <div
-  className="sc-bdVaJa sc-bwzfXH dCpSum"
+  className="sc-bdVaJa sc-htpNat iZmfLD"
 >
    I am a Card
 </div>

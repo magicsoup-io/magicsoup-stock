@@ -1,7 +1,7 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
 
-import Link from '../Link'
+import { Link } from '../../../index'
 
 it('renders <Link /> without throwing', () => {
   const tree = renderer.create(

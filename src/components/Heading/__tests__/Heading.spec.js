@@ -1,7 +1,7 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
 
-import Heading from '../Heading'
+import { Heading } from '../../../index'
 
 it('renders <Heading /> without throwing', () => {
   const tree = renderer.create(<Heading> I am a Heading</Heading>).toJSON()

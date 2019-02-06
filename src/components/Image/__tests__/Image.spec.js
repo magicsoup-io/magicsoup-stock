@@ -1,7 +1,7 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
 
-import Image from '../Image'
+import { Image } from '../../../index'
 
 it('renders <Image /> without throwing', () => {
   const tree = renderer.create(

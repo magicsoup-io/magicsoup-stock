@@ -7,7 +7,7 @@ import {
   buttonStyle,
 } from 'styled-system'
 
-import Box from '../Box'
+import { Box } from '../../index'
 
 const themed = key => props => props.theme[key]
 

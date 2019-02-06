@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`imports magicsoup.io without errors 1`] = `
+Array [
+  <div
+    className="sc-bdVaJa cvoFnp"
+  >
+     I am a Box
+  </div>,
+  <button
+    className="sc-bdVaJa sc-bwzfXH dmTWBi"
+    color="white"
+    fontSize="inherit"
+    fontWeight="bold"
+  >
+     I am a Button
+  </button>,
+  <div
+    className="sc-bdVaJa sc-htpNat iZmfLD"
+  >
+     I am a Card
+  </div>,
+  <div
+    className="sc-bdVaJa sc-bxivhb jmKshP"
+  >
+     I am a Flex
+  </div>,
+  <h2
+    className="sc-bdVaJa sc-ifAKCX sc-EHOje enfkQq"
+  >
+     I am a Heading
+  </h2>,
+  <img
+    className="sc-bdVaJa sc-bZQynM nVATw"
+    src="https://source.unsplash.com/random/1280x720"
+  />,
+  <a
+    className="sc-bdVaJa sc-gzVnrw jwlhWM"
+    color="blue"
+    href="http://www.example.com"
+  >
+     I am a Link
+  </a>,
+  <div
+    className="sc-bdVaJa sc-ifAKCX dcLmg"
+  >
+     I am a Text
+  </div>,
+]
+`;

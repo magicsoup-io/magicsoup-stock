@@ -2,7 +2,7 @@
 
 exports[`renders <Image /> without throwing 1`] = `
 <img
-  className="sc-bdVaJa sc-bwzfXH iQomsV"
+  className="sc-bdVaJa sc-bZQynM nVATw"
   src="https://source.unsplash.com/random/1280x720"
 />
 `;
