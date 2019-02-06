@@ -1,6 +1,7 @@
 export { default as Box } from './components/Box'
 export { default as Button } from './components/Button'
 export { default as Card } from './components/Card'
+export { default as Container } from './components/Container'
 export { default as Flex } from './components/Flex'
 export { default as Heading } from './components/Heading'
 export { default as Image } from './components/Image'
