@@ -3,12 +3,12 @@
 exports[`imports magicsoup.io without errors 1`] = `
 Array [
   <div
-    className="sc-bdVaJa cvoFnp"
+    className="sc-bdVaJa eAkHCv"
   >
      I am a Box
   </div>,
   <button
-    className="sc-bdVaJa sc-bwzfXH dmTWBi"
+    className="sc-bdVaJa sc-bwzfXH lmHWZU"
     color="white"
     fontSize="inherit"
     fontWeight="bold"
@@ -16,33 +16,33 @@ Array [
      I am a Button
   </button>,
   <div
-    className="sc-bdVaJa sc-htpNat iZmfLD"
+    className="sc-bdVaJa sc-htpNat jocheC"
   >
      I am a Card
   </div>,
   <div
-    className="sc-bdVaJa sc-bxivhb jmKshP"
+    className="sc-bdVaJa sc-ifAKCX cGFghZ"
   >
      I am a Flex
   </div>,
   <h2
-    className="sc-bdVaJa sc-ifAKCX sc-EHOje enfkQq"
+    className="sc-bdVaJa sc-EHOje sc-bZQynM krIznt"
   >
      I am a Heading
   </h2>,
   <img
-    className="sc-bdVaJa sc-bZQynM nVATw"
+    className="sc-bdVaJa sc-gzVnrw gWAdUb"
     src="https://source.unsplash.com/random/1280x720"
   />,
   <a
-    className="sc-bdVaJa sc-gzVnrw jwlhWM"
+    className="sc-bdVaJa sc-htoDjs cQCQmQ"
     color="blue"
     href="http://www.example.com"
   >
      I am a Link
   </a>,
   <div
-    className="sc-bdVaJa sc-ifAKCX dcLmg"
+    className="sc-bdVaJa sc-EHOje ilTtvD"
   >
      I am a Text
   </div>,

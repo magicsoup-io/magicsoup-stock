@@ -2,7 +2,7 @@
 
 exports[`renders <Flex /> without throwing 1`] = `
 <div
-  className="sc-bdVaJa sc-bxivhb jmKshP"
+  className="sc-bdVaJa sc-ifAKCX cGFghZ"
 >
    I am a Flex
 </div>
