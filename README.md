@@ -10,13 +10,15 @@
 [![Release](https://img.shields.io/github/release/magicsoup-io/magicsoup-stock.svg?style=flat)](https://github.com/magicsoup-io/magicsoup-stock/releases)
 [![Weekly downloads](https://img.shields.io/npm/dw/@magicsoup.io/stock.svg?style=flat)](https://www.npmjs.com/package/@magicsoup.io/stock)
 
-THE base component library for your next React.js project. The *soup* is getting cooked with [styled-components](https://github.com/styled-components/styled-components) and [styled-system](https://github.com/jxnblk/styled-system).
+A base component library for your next React.js project. The *soup* is getting cooked with [styled-components](https://github.com/styled-components/styled-components) and [styled-system](https://github.com/jxnblk/styled-system).
 
 Inspired by [rebass](https://github.com/rebassjs/rebass) we at [zauberware](https://www.zauberware.com) created our own component starter library: **[MagicSoup.io](https://magicsoup.io)**!
 
+A perfect fit for `create-react-app` and `gatsby` websites.
+
 **We love to code! We love to share! We love to create awesome UIs!**
 
-Our goal is to animate more and more developers and companies to create higher order components with MagicSoup.io. We want to give the React.js community a space where they can share their components with others. If more and more developers are using the nice approach of styled-components, styled-system and MagicSoup.io, we will all get a better understanding of how others have build their UI and we can all easily hop into other projects.
+Our goal is to write clean, flexile, maintainable and extendable frontend components. MagicSoup.io follows the principles of component based frontend design and implements the philosophy of `styled-components` and `styled-system`. For us it's one of the best starter libraries to create indivudal designed web interfaces.
 
 
 ## Principles
@@ -28,15 +30,15 @@ Our goal is to animate more and more developers and companies to create higher o
 - Consistent
 - Extensible
 - Themeable
-- Do one thing well!
 
 ## Features
 
-- THE starter library to create your own React component library
+- A starter library to create your own React component library
 - Easy adoption, well known props because of [styled-system](https://github.com/jxnblk/styled-system) 
 - Stateless UI components
 - Theming is possible and easy
 - Components are extensible
+- Speeds up your frontend development
 
 ## Installation
 
