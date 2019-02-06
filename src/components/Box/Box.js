@@ -11,8 +11,6 @@ import {
   fontSize,
 } from 'styled-system'
 
-const themed = key => props => props.theme[key]
-
 const Box = styled('div')`
   box-sizing: border-box;
   ${space}
@@ -23,7 +21,6 @@ const Box = styled('div')`
   ${flex}
   ${order}
   ${alignSelf}
-  ${themed('Box')}
 `
 /** @component */
 export default Box
