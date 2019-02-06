@@ -22,7 +22,7 @@
     "styleguide": "styleguidist build",
     "build": "rm -rf dist/ && webpack",
     "lint": "eslint src",
-    "jest": "jest --env=jsdom",
+    "jest": "jest -u --env=jsdom",
     "test": "run-s lint jest",
     "size": "npx bundlesize"
   },
