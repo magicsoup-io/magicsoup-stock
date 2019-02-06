@@ -15,7 +15,7 @@ const Heading = styled(Text)`
 /** @component */
 export default Heading
 
-Image.propTypes = {
+Heading.propTypes = {
   ...headings.propTypes,
   as: PropTypes.string,
 }
