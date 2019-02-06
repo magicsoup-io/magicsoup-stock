@@ -5,14 +5,16 @@ import Box from '../Box'
 
 const themed = key => props => props.theme[key]
 
-const Container = styled(Box)`
-  ${themed('Container')}
-  ${maxWidth}
-`
+const Container = styled(Box)(
+  themed('Container'),
+  maxWidth,
+)
+
 Container.defaultProps = {
   mx: 'auto',
   px: 2,
   maxWidth: 1180,
 }
 
+/** @component */
 export default Container

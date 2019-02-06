@@ -53,3 +53,36 @@ Use the variant
 </Heading>
 
 ```
+
+Note: If you set value in your theme.js and you set it also as props on the element, the value from the theme comes first. Example:
+
+```jsx static
+  # theme.js
+  headings: {
+    red: {
+      color: 'red',
+      fontSize: 40,
+    },
+  },
+
+```
+
+```jsx
+  <Heading 
+    as='h1' 
+    variant='red' 
+    color='blue'>
+    I can't get blue
+  </Heading>
+```
+
+If something is not theme releated, a "design-exception", then define the headline completely by yourself.
+
+```jsx
+  <Heading 
+    as='h1'
+    fontSize={6}
+    color='blue'>
+    I can get blue
+  </Heading>
+```

@@ -2,7 +2,7 @@
 
 exports[`renders <Heading /> without throwing 1`] = `
 <h2
-  className="sc-bdVaJa sc-EHOje sc-bZQynM krIznt"
+  className="sc-bdVaJa sc-EHOje sc-bZQynM kKcxZB"
 >
    I am a Heading
 </h2>

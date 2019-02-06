@@ -4,14 +4,14 @@ import PropTypes from 'prop-types'
 
 import Text from '../Text'
 
+const headings = variant({ key: 'headings' })
 const themed = key => props => props.theme[key]
 
-const headings = variant({ key: 'headings' })
+const Heading = styled(Text)(
+  headings,
+  themed('Heading'),
+)
 
-const Heading = styled(Text)`
-  ${headings}
-  ${themed('Heading')}
-`
 /** @component */
 export default Heading
 
