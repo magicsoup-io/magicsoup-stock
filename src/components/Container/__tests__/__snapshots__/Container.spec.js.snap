@@ -2,7 +2,7 @@
 
 exports[`renders <Container /> without throwing 1`] = `
 <div
-  className="sc-bdVaJa sc-bxivhb iPFsIz"
+  className="sc-bdVaJa sc-bxivhb andeV"
 >
    I am a Container
 </div>
