@@ -10,11 +10,11 @@
 [![Release](https://img.shields.io/github/release/magicsoup-io/magicsoup-stock.svg?style=flat)](https://github.com/magicsoup-io/magicsoup-stock/releases)
 [![Weekly downloads](https://img.shields.io/npm/dw/@magicsoup.io/stock.svg?style=flat)](https://www.npmjs.com/package/@magicsoup.io/stock)
 
-A base component library for your next React.js project. The *soup* is getting cooked with [styled-components](https://github.com/styled-components/styled-components) and [styled-system](https://github.com/jxnblk/styled-system).
+A leightweight component library for your next React.js project. The *soup* is getting cooked with [styled-components](https://github.com/styled-components/styled-components) and [styled-system](https://github.com/jxnblk/styled-system).
 
 Inspired by [rebass](https://github.com/rebassjs/rebass) we at [zauberware](https://www.zauberware.com) created our own component starter library: **[MagicSoup.io](https://magicsoup.io)**!
 
-A perfect fit for `create-react-app` and `gatsby` websites.
+A perfect fit for `create-react-app` and `gatsby` websites. Bundlesize only **2.11KB**!
 
 **We love to code! We love to share! We love to create awesome UIs!**
 
