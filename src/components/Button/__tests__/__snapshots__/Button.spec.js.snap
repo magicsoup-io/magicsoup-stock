@@ -2,7 +2,7 @@
 
 exports[`renders <Button /> without throwing 1`] = `
 <button
-  className="sc-bdVaJa sc-bwzfXH lmHWZU"
+  className="sc-bdVaJa sc-bwzfXH hLpsMy"
   color="white"
   fontSize="inherit"
   fontWeight="bold"
