@@ -17,6 +17,7 @@ const Button = styled(Box)`
   textAlign: center;
   lineHeight: inherit;
   textDecoration: none;
+  cursor: pointer;
   ${fontWeight}
   ${borders}
   ${borderColor}

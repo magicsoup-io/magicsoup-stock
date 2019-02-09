@@ -5,6 +5,7 @@ import Box from '../Box'
 const themed = key => props => props.theme[key]
 
 const Link = styled(Box)`
+  cursor: pointer;
   ${themed('Link')}
 `
 /** @component */
