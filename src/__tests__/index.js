@@ -11,6 +11,7 @@ import {
   Text,
 } from '../index'
 
+
 it('imports magicsoup.io without errors', () => {
   const tree = renderer.create(
     <Fragment>
