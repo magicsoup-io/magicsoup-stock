@@ -46,6 +46,7 @@ Our goal is to write clean, flexile, maintainable and extendable frontend compon
 
 ## Documentation
 
+
 ### Quick start
 `import { Text } from '@magicsoup.io/stock'`
 
